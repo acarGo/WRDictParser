@@ -30,3 +30,5 @@ entidad
 	</Definicion>
 </Diccionario>
 ```
+
+*Librería JSoup necesaria*
